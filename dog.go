@@ -14,3 +14,7 @@ func Barkn(numberOfBarks int) {
 	}
 	fmt.Println()
 }
+
+func BigBark() {
+	fmt.Println("WOOF!")
+}
